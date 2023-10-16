@@ -1,7 +1,7 @@
 # GolangCodeJourney
 
-## Write a golang program to convert length(inches, centimeter), weight(Kilogram , Pound) and temprature(Centigrade to Fharenheit ) vise versa
 
+ Write a golang program to convert length(inches, centimeter), weight(Kilogram , Pound) and temprature(Centigrade to Fharenheit ) vise versa
 1. Length (package)
    1. Inches - Centimeter (Methods/Functions)
    2. Centimeter - Inches (Methods/Functions)
