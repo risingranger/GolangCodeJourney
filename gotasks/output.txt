@@ -1,0 +1,1 @@
+Hello world. This is a text file created as a input to a go language program. This text will appear in output.txt file
